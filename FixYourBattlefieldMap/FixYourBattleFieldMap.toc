@@ -1,0 +1,7 @@
+## Interface: 110002
+## Title: FixYourBattleFieldMap
+## Notes: "/map info" or " /map reset" to fix minimap location to center of screen
+## Author: rljohn
+## SavedVariablesPerCharacter: FixYourMapSettings
+
+FixYourBattleFieldMap.lua
